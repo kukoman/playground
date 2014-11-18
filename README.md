@@ -5,6 +5,7 @@ everything that's on my mind atm ;)
 
 Doctrine 2 Events with Zend Framework 2 Entity Listener
 
+```
 GET
 {"file":"EquipmentEntityListener.php","line":67,"data":"postLoad"}
 
@@ -27,3 +28,4 @@ DELETE
 {"file":"EquipmentEntityListener.php","line":67,"data":"postLoad"}
 {"file":"EquipmentEntityListener.php","line":17,"data":"preRemove"}
 {"file":"EquipmentEntityListener.php","line":22,"data":"postRemove"}
+```
