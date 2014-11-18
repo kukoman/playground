@@ -1,8 +1,6 @@
 playground
 ==========
 
-everything that's on my mind atm ;)
-
 Doctrine 2 Events with Zend Framework 2 Entity Listener
 
 ```
