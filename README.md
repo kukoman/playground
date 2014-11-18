@@ -17,7 +17,7 @@ POST
 
 PUT
 {"file":"EquipmentEntityListener.php","line":66,"data":"postLoad"}
-// in my case I call the preFlush is called 3 times
+// in my case I call the preFlush 3 times
 {"file":"EquipmentEntityListener.php","line":56,"data":"preFlush"}
 {"file":"EquipmentEntityListener.php","line":56,"data":"preFlush"} 
 {"file":"EquipmentEntityListener.php","line":56,"data":"preFlush"}
