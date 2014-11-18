@@ -1,4 +1,4 @@
-ZF2 Doctrine Event Listener
+ZF2 Doctrine Event Listener Lifecycle
 ==========
 
 Doctrine 2 Events with Zend Framework 2 Entity Listener
