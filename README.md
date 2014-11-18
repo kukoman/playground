@@ -1,4 +1,4 @@
-playground
+ZF2 Doctrine Event Listener
 ==========
 
 Doctrine 2 Events with Zend Framework 2 Entity Listener
